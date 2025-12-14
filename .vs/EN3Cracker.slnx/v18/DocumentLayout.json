@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\EN3Cracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|c:\\users\\admin\\source\\repos\\en3cracker\\en3cracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|solutionrelative:en3cracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|c:\\users\\admin\\source\\repos\\en3cracker\\en3cracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|solutionrelative:en3cracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EN3Cracker\\EN3Cracker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EN3Cracker\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EN3Cracker\\EN3Cracker\\MainWindow.xaml",
+              "RelativeToolTip": "EN3Cracker\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T07:50:39.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EN3Cracker\\EN3Cracker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EN3Cracker\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EN3Cracker\\EN3Cracker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EN3Cracker\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T07:50:38.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
