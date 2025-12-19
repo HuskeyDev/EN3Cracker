@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Drawing;
+using System.IO;
 
 namespace EN3Cracker
 {
@@ -23,6 +25,9 @@ namespace EN3Cracker
         public MainWindow()
         {
             InitializeComponent();
+            Introduction.Selection.Load(new FileStream(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Assets", "introduction.rtf"),FileMode.Open),DataFormats.Rtf);
         }
+
+
     }
 }

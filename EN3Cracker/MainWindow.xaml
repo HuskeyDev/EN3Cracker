@@ -5,13 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EN3Cracker"
         mc:Ignorable="d"
-        Title="希沃白板3破解工具"  Width="500" WindowStartupLocation="CenterScreen" SizeToContent="Height" ResizeMode="CanMinimize" Cursor="">
+        Title="希沃白板3激活工具"  Width="500" WindowStartupLocation="CenterScreen" SizeToContent="Height" ResizeMode="CanMinimize" Cursor="" Icon="/icon.ico">
     <Grid>
         <Grid Margin="8,8,8,8">
             <DockPanel>
                 <DockPanel DockPanel.Dock="Top">
-                    <Image Source="/Resources/Assets/icon.png" Width="150" Height="150" DockPanel.Dock="Left" HorizontalAlignment="Left"/>
-                    <RichTextBox />
+                    <Image x:Name="icon" Width="150" Height="150" DockPanel.Dock="Left" HorizontalAlignment="Left" Source="pack://siteoforigin:,,,/Assets/icon.png"/>
+                    <RichTextBox x:Name="Introduction" IsReadOnly="True">
+                    </RichTextBox>
                 </DockPanel>
                 <Grid DockPanel.Dock="Top" Height="20" Margin="0,4,0,0">
                     <Grid.ColumnDefinitions>
@@ -24,7 +25,7 @@
                     <Button Width="50" DockPanel.Dock="Right" HorizontalAlignment="Right" Grid.Column="2" >浏览</Button>
 
                 </Grid>
-                <Button x:Name="startpatch" FontSize="36" DockPanel.Dock="Bottom" Margin="0,4,0,0" Height="50">破解</Button>
+                <Button x:Name="startpatch" FontSize="36" DockPanel.Dock="Bottom" Margin="0,4,0,0" Height="50">激活</Button>
             </DockPanel>
         </Grid>
     </Grid>

@@ -7,7 +7,7 @@ using System.Windows;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("希沃白板3破解工具")]
+[assembly: AssemblyTitle("希沃白板3激活工具")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HuskeyDev")]

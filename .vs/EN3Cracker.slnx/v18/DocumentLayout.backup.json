@@ -6,8 +6,16 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EN3Cracker||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|c:\\users\\admin\\documents\\github\\en3cracker\\en3cracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|C:\\Users\\Admin\\Documents\\GitHub\\EN3Cracker\\en3cracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|solutionrelative:en3cracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|c:\\users\\admin\\documents\\github\\en3cracker\\en3cracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|solutionrelative:en3cracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|C:\\Users\\Admin\\Documents\\GitHub\\EN3Cracker\\en3cracker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|solutionrelative:en3cracker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A4839DF-FC8C-4061-A295-E5C13E4C823F}|EN3Cracker\\EN3Cracker.csproj|c:\\users\\admin\\documents\\github\\en3cracker\\en3cracker\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
@@ -20,8 +28,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 205,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\EN3Cracker\\EN3Cracker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EN3Cracker\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\EN3Cracker\\EN3Cracker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EN3Cracker\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:07:02.789Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,6 +53,18 @@
               "RelativeToolTip": "EN3Cracker\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-17T13:31:37.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\EN3Cracker\\EN3Cracker\\App.xaml",
+              "RelativeDocumentMoniker": "EN3Cracker\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\EN3Cracker\\EN3Cracker\\App.xaml",
+              "RelativeToolTip": "EN3Cracker\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T15:14:02.809Z",
               "EditorCaption": ""
             },
             {
