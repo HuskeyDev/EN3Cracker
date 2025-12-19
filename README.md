@@ -17,5 +17,5 @@
 激活页面显示已激活  
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1e4b03d9-b946-4937-88f1-d47ca83b8164" />  
 
-诸如“手写识别”等未激活且试用期结束就不能使用的功能可以正常使用  
+诸如“手写识别”等试用期结束就不能使用的功能可以正常使用  
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/3e1c48e8-61d8-4c64-a6bb-e5feb0131ba1" />
