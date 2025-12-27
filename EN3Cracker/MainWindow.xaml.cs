@@ -31,7 +31,7 @@ namespace EN3Cracker
         public MainWindow()
         {
             InitializeComponent();
-            Introduction.Selection.Load(new FileStream("./Assets/introduction.rtf", FileMode.Open), DataFormats.Rtf);
+            Introduction.Selection.Load(new FileStream(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Assets", "introduction.rtf"),FileMode.Open),DataFormats.Rtf);
         }
         private void Window_ContentRendered(object sender, EventArgs e)
         {
