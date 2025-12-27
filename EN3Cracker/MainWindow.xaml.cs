@@ -44,5 +44,10 @@ namespace EN3Cracker
         }
 
 
+        private void repo_Click(object sender, RoutedEventArgs e)
+        {
+            Hyperlink link = sender as Hyperlink;
+            Process.Start(new ProcessStartInfo(link.NavigateUri.AbsoluteUri));
+        }
     }
 }

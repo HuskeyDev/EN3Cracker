@@ -26,7 +26,11 @@
                     <Button Width="50" DockPanel.Dock="Right" HorizontalAlignment="Right" Grid.Column="2" >浏览</Button>
 
                 </Grid>
-                <Button x:Name="startpatch" FontSize="36" DockPanel.Dock="Bottom" Margin="0,4,0,0" Height="50">激活</Button>
+                <Button x:Name="startpatch" FontSize="36" DockPanel.Dock="Top" Margin="0,4,0,0" Height="50" Click="startpatch_Click">激活</Button>
+                <TextBlock DockPanel.Dock="Top" Margin="0,4,0,0">
+                    GitHub 
+                    <Hyperlink x:Name="repo" NavigateUri="https://github.com/HuskeyDev/EN3Cracker" Click="repo_Click" >https://github.com/HuskeyDev/EN3Cracker</Hyperlink>
+                </TextBlock>
             </DockPanel>
         </Grid>
     </Grid>
