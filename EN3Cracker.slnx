@@ -2,8 +2,12 @@
   <Configurations>
     <Platform Name="Any CPU" />
     <Platform Name="x64" />
+    <Platform Name="x86" />
   </Configurations>
   <Project Path="EN3Cracker/EN3Cracker.csproj" Id="5a4839df-fc8c-4061-a295-e5c13e4c823f">
+    <BuildType Solution="Debug|Any CPU" Project="Release" />
+    <BuildType Solution="Debug|x86" Project="Release" />
+    <Platform Solution="*|x86" Project="x86" />
     <Platform Solution="Debug|x64" Project="x64" />
   </Project>
 </Solution>
