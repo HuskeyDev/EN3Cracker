@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EN3Cracker"
         mc:Ignorable="d"
-        Title="希沃白板3激活工具"  Width="500" WindowStartupLocation="CenterScreen" SizeToContent="Height" ResizeMode="CanMinimize" Cursor="" Icon="/icon.ico" ContentRendered="Window_ContentRendered">
+        Title="旧版希沃白板激活工具"  Width="550" WindowStartupLocation="CenterScreen" SizeToContent="Height" ResizeMode="CanMinimize" Cursor="" Icon="/icon.ico" ContentRendered="Window_ContentRendered">
     <Grid>
         <Grid Margin="8,8,8,8">
             <DockPanel>
@@ -20,7 +20,7 @@
                         <ColumnDefinition Width="*"/>
                         <ColumnDefinition Width="Auto"/>
                     </Grid.ColumnDefinitions>
-                    <TextBlock Grid.Column="0" Text="希沃白板3程序目录" FontSize="14" />
+                    <TextBlock Grid.Column="0" Text="希沃白板程序目录" FontSize="14" />
                     <TextBox x:Name="enpathbox" Grid.Column="1" HorizontalAlignment="Stretch" TextChanged="enpathbox_TextChanged" />
                     <Button x:Name="browse" Width="50" DockPanel.Dock="Right" HorizontalAlignment="Right" Grid.Column="2" Click="browse_Click" >浏览</Button>
                 </Grid>

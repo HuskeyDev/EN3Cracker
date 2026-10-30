@@ -151,7 +151,8 @@
   <ItemGroup>
     <Resource Include="Resources\Assets\icon.png" />
     <Resource Include="icon.ico" />
-    <Content Include="Resources\Crackfiles\Cvte.Platform.Basic.dll" />
+    <Content Include="Resources\Crackfiles\2\EasiNote.Register.dll" />
+    <Content Include="Resources\Crackfiles\3\Cvte.Platform.Basic.dll" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
